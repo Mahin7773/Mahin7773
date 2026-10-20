@@ -47,6 +47,7 @@
 |---|---|---|
 | [**3D-Space-Shooter**](https://github.com/Mahin7773/3D-Space-Shooter) | Two-player space shooter with textures and dynamic lighting | C++ · OpenGL |
 | [**Omega-Technologies**](https://github.com/Mahin7773/Omega-Technologies) | Online computer parts store with customer accounts and an admin panel | PHP · MySQL · JS |
+| [**GridLock**](https://github.com/Mahin7773/GridLock) | 6×6 blocking strategy game with a Minimax / alpha-beta AI opponent | Python · Pygame |
 | [**eShikkha**](https://github.com/Mahin7773/eShikkha) | Learning management system | Python · Django |
 | [**Compiler-Project**](https://github.com/Mahin7773/Compiler-Project) | Lexical analyzer and parser | C · Flex · Bison |
 | [**HishabKoi**](https://github.com/Mahin7773/HishabKoi) | Expense and loan tracker | Java |
