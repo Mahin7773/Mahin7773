@@ -1,9 +1,9 @@
 <h1 align="center">Md. Mashrur Alam</h1>
-<p align="center"><b>Lecturer, Dept. of CSE · Dhaka International University</b><br>B.Sc. in CSE, KUET · Seeking MS / PhD opportunities</p>
+<p align="center"><a href="https://profile.diu.ac/md.mashruralam"><b>Lecturer, Dept. of CSE · Dhaka International University</b></a><br>B.Sc. in CSE, KUET · Seeking MS / PhD opportunities</p>
 
 <p align="center">
   <a href="https://mahin7773.github.io"><img src="https://img.shields.io/badge/Website-mahin7773.github.io-1f4e8c?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"></a>
-  <a href="mailto:mashrur773@gmail.com"><img src="https://img.shields.io/badge/Email-mashrur773%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:mashrur.alam73@gmail.com"><img src="https://img.shields.io/badge/Email-mashrur.alam73%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/mashrur73"><img src="https://img.shields.io/badge/LinkedIn-mashrur73-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
