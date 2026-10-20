@@ -27,7 +27,7 @@
 
 > [!NOTE]
 > ### 3D Reconstruction from Multi-View 2D Images
-> **Undergraduate Thesis · KUET**
+> **Undergraduate Thesis · KUET** · [Repository →](https://github.com/Mahin7773/Thesis_Undergrad)
 >
 > - Reconstructed 3D objects from multi-view 2D images using **Neural Graphics Primitives**
 > - Applied **multi-resolution hash encoding** to improve training speed and reconstruction quality
