@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://mahin7773.github.io"><img src="https://img.shields.io/badge/Website-mahin7773.github.io-1f4e8c?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
-  <a href="https://mahin7773.github.io/#cv"><img src="https://img.shields.io/badge/CV-PDF-1f4e8c?style=flat-square&logo=readthedocs&logoColor=white" alt="CV"></a>
   <a href="mailto:mashrur773@gmail.com"><img src="https://img.shields.io/badge/Email-mashrur773%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/mashrur73"><img src="https://img.shields.io/badge/LinkedIn-mashrur73-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
